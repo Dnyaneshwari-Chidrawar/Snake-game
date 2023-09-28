@@ -1,3 +1,5 @@
+print("Hi all, This is my first GUI Game")
+
 import random
 import pprint
 import tkinter as tk
